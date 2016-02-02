@@ -1,0 +1,18 @@
+{
+  "name": "sketch_video",
+  "version": "0.0.1",
+  "description": "SketchChina 社区 静电 的VIP 视频爬虫",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "superagent": "^0.20.0"
+  },
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "sketch"
+  ],
+  "author": "laichanwai",
+  "license": "ISC"
+}
